@@ -24,59 +24,59 @@ export const defaultData = {
     {
       id: 'h-3',
       title: 'Motion Graphics',
-      video: '/videos/horizontal3.mp4'
+      video: 'https://gokul-portfolio-videos-695100306138-ap-south-1-an.s3.ap-south-1.amazonaws.com/aws/horizontal3.mp4'
     },
     {
       id: 'h-4',
       title: 'Wedding Intro',
-      video: '/videos/horizontal4.mp4'
+      video: 'https://gokul-portfolio-videos-695100306138-ap-south-1-an.s3.ap-south-1.amazonaws.com/aws/horizontal4.mp4'
     }
   ],
   verticalVideos: [
     {
       id: 'v-1',
       title: 'Real Estate',
-      video: '/videos/vertical1.mp4'
+      video: 'https://gokul-portfolio-videos-695100306138-ap-south-1-an.s3.ap-south-1.amazonaws.com/aws/V1.mp4'
     },
     {
       id: 'v-2',
       title: 'Personal Branding',
-      video: '/videos/vertical2.mp4'
+      video: 'https://gokul-portfolio-videos-695100306138-ap-south-1-an.s3.ap-south-1.amazonaws.com/aws/vertical2.mp4'
     },
     {
       id: 'v-3',
       title: 'Branding Promotion',
-      video: '/videos/vertical3.mp4'
+      video: 'https://gokul-portfolio-videos-695100306138-ap-south-1-an.s3.ap-south-1.amazonaws.com/aws/vertical3.mp4'
     },
     {
       id: 'v-4',
       title: 'Tech Videos',
-      video: '/videos/vertical4.mp4'
+      video: 'https://gokul-portfolio-videos-695100306138-ap-south-1-an.s3.ap-south-1.amazonaws.com/aws/vertical4.mp4'
     },
     {
       id: 'v-5',
       title: 'Clothing Brands',
-      video: '/videos/vertical5.mp4'
+      video: 'https://gokul-portfolio-videos-695100306138-ap-south-1-an.s3.ap-south-1.amazonaws.com/aws/vertical5.mp4'
     },
     {
       id: 'v-6',
       title: 'Foriegn Ads',
-      video: '/videos/vertical6.mp4'
+      video: 'https://gokul-portfolio-videos-695100306138-ap-south-1-an.s3.ap-south-1.amazonaws.com/aws/vertical6.mp4'
     },
     {
       id: 'v-7',
       title: 'Life Style',
-      video: '/videos/vertical7.mp4'
+      video: 'https://gokul-portfolio-videos-695100306138-ap-south-1-an.s3.ap-south-1.amazonaws.com/aws/vertical7.mp4'
     },
     {
       id: 'v-8',
       title: 'EdTech Ads',
-      video: '/videos/vertical8.mp4'
+      video: 'https://gokul-portfolio-videos-695100306138-ap-south-1-an.s3.ap-south-1.amazonaws.com/aws/vertical8.mp4'
     },
     {
       id: 'v-9',
       title: 'Course Ads',
-      video: '/videos/vertical9.mp4'
+      video: 'https://gokul-portfolio-videos-695100306138-ap-south-1-an.s3.ap-south-1.amazonaws.com/aws/vertical9.mp4'
     }
   ],
   services: [
