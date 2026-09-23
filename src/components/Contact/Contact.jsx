@@ -19,9 +19,9 @@ export default function Contact() {
       platform: 'Email',
       value: data.email || 'gokulm3127@gmail.com',
       raw: data.email || 'gokulm3127@gmail.com',
-      href: `mailto:${data.email || 'gokulm3127@gmail.com'}?subject=Hi%20Gokul Prasath`,
+      href: `https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent(data.email || 'gokulm3127@gmail.com')}&su=${encodeURIComponent('Hi Gokul Prasath')}`,
       actionText: 'Send an Email',
-      isExternal: false
+      isExternal: true
     },
     {
       id: 'linkedin',
