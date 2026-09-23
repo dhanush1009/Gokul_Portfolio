@@ -5,7 +5,7 @@ export default function About() {
   const { data } = usePortfolio();
 
   const details = data.aboutDetails || [
-    { label: 'Experience', value: '2.5+ years' },
+    { label: 'Experience', value: '3+ years' },
     { label: 'Projects', value: '600+ videos' },
     { label: 'Tools', value: 'Premiere Pro & After Effects' },
     { label: 'Based in', value: 'Tamil Nadu · Remote' }
@@ -24,7 +24,7 @@ export default function About() {
             </h2>
             <div className="about-copy">
               <p>
-                Hi, I’m <strong>Gokul Prasath</strong>, a passionate Video Editor &amp; Motion Designer with <strong>2.5+ years</strong> of professional experience in creating engaging and impactful visual content.
+                Hi, I’m <strong>Gokul Prasath</strong>, a passionate Video Editor &amp; Motion Designer with <strong>3+ years</strong> of professional experience in creating engaging and impactful visual content.
               </p>
               <p>
                 Over the years, I’ve worked on <strong>600+ videos</strong>, covering short-form content, social media videos, promotional videos, podcasts, brand content, and motion graphics. I focus on turning raw footage and ideas into polished videos that capture attention and communicate the message clearly.

@@ -102,7 +102,7 @@ export const defaultData = {
     }
   ],
   aboutDetails: [
-    { label: 'Experience', value: '2.5+ years' },
+    { label: 'Experience', value: '3+ years' },
     { label: 'Projects', value: '600+ videos' },
     { label: 'Tools', value: 'Premiere Pro & After Effects' },
     { label: 'Based in', value: 'Tamil Nadu · Remote' }
