@@ -8,18 +8,18 @@ export const defaultData = {
   linkedin: 'gokul-prasath-559207318',
   linkedinUrl: 'https://www.linkedin.com/in/gokul-prasath-559207318/',
   profileImage: '/gokul-profile.png',
-  reel: '/videos/horizontal1.mp4',
+  reel: 'https://gokul-portfolio-videos-695100306138-ap-south-1-an.s3.ap-south-1.amazonaws.com/aws/Clickup.mp4',
   intro: 'Passionate Video Editor & Motion Designer turning raw footage and ideas into polished, impactful visual experiences that capture attention and communicate clearly.',
   horizontalVideos: [
     {
       id: 'h-1',
       title: 'Clickup',
-      video: '/videos/horizontal1.mp4'
+      video: 'https://gokul-portfolio-videos-695100306138-ap-south-1-an.s3.ap-south-1.amazonaws.com/aws/Clickup.mp4'
     },
     {
       id: 'h-2',
       title: 'Podcast',
-      video: '/videos/horizontal2.mp4'
+      video: 'https://gokul-portfolio-videos-695100306138-ap-south-1-an.s3.ap-south-1.amazonaws.com/aws/horizontal2.mp4'
     },
     {
       id: 'h-3',
